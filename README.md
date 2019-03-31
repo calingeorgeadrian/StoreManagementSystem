@@ -39,3 +39,14 @@
  - CashierService
  - ProviderService
  - CustomerService
+ 
+ ## Users
+ - Cashier
+   - **Username**: Cashier
+   - **Password**: password
+ - Provider
+   - **Username**: Provider
+   - **Password**: password
+ - Customer
+   - **Username**: Customer
+   - **Password**: password
