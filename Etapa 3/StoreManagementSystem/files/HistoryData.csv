@@ -1,0 +1,92 @@
+nume_actiune,timestamp,thread_name
+User printed the stock for product with id 45.,2 June 2019 17:13 main
+User printed all tickets.,2 June 2019 17:14 main
+User printed the ticket with id 1.,2 June 2019 17:14 main
+User printed the stock for product with id 12.,2 June 2019 17:14 main
+User printed the stock for product with id 12.,2 June 2019 17:14 main
+User printed the stock for product with id 14.,2 June 2019 17:21 ,main
+User printed the stock for product with id 14.,2 June 2019 17:27 ,main
+User printed the stock for product with id 14.,2 June 2019 17:28 ,main
+User printed the stock for product with id 14.,2 June 2019 17:28 ,main
+User printed the stock for product with id 14.,2 June 2019 17:31 ,main
+User printed the stock for product with id 14.,2 June 2019 17:33 ,main
+User printed the stock for product with id 14.,2 June 2019 17:35 ,main
+User printed the stocks.,2 June 2019 17:35 ,main
+User printed the stocks.,2 June 2019 17:36 ,main
+User printed the stocks.,2 June 2019 18:06 ,main
+User printed the stocks.,2 June 2019 18:07 ,main
+User printed the stock for product with id 56.,2 June 2019 18:07 ,main
+User printed the stock for product with id 57.,2 June 2019 18:08 ,main
+User printed the stocks.,2 June 2019 18:18 ,main
+User printed the stock for product with id 57.,2 June 2019 18:19 ,main
+User printed the stocks.,2 June 2019 18:19 ,main
+User printed the stocks.,2 June 2019 18:20 ,main
+User printed the stocks.,2 June 2019 18:23 ,main
+User printed the stocks.,2 June 2019 18:23 ,main
+User printed the stocks.,2 June 2019 18:24 ,main
+User printed the stocks.,2 June 2019 18:26 ,main
+User printed the stocks.,2 June 2019 18:26 ,main
+User printed the stocks.,2 June 2019 18:26 ,main
+User printed the stock for product with id 60.,2 June 2019 18:26 ,main
+User printed the stocks.,2 June 2019 18:27 ,main
+User printed the stocks.,2 June 2019 18:28 ,main
+User printed the stocks.,2 June 2019 18:28 ,main
+User printed the stocks.,2 June 2019 18:28 ,main
+User printed the stocks.,2 June 2019 18:34 ,main
+User printed the stocks.,2 June 2019 18:35 ,main
+User printed the stocks.,2 June 2019 18:35 ,main
+User printed the stocks.,2 June 2019 18:36 ,main
+User printed the stocks.,2 June 2019 18:36 ,main
+cashier1 logged in.,2 June 2019 19:38 ,main
+Cashier Popescu Ioana has been fired.,2 June 2019 19:39 ,main
+cashier1 failed to log in.,2 June 2019 19:39 ,main
+cashier2 logged in.,2 June 2019 19:43 ,main
+Cashier Anghel Petrut printed his own information.,2 June 2019 19:43 ,main
+Cashier Anghel Petrut has been fired.,2 June 2019 19:43 ,main
+cashier2 logged in.,2 June 2019 19:44 ,main
+Cashier Anghel Petrut printed his own information.,2 June 2019 19:44 ,main
+Cashier Anghel Petrut has been fired.,2 June 2019 19:44 ,main
+cashier2 failed to log in.,2 June 2019 19:44 ,main
+cashier3 logged in.,2 June 2019 19:52 ,main
+Cashier Ionescu Pavel printed his own information.,2 June 2019 19:52 ,main
+cashier3 failed to log in.,2 June 2019 19:55 ,main
+cashier1 logged in.,2 June 2019 19:56 ,main
+Cashier Popescu Ioana printed his own information.,2 June 2019 19:56 ,main
+cashier1 failed to log in.,2 June 2019 19:56 ,main
+customer1 logged in.,2 June 2019 20:56 ,main
+Customer Calin George-Adrian printed his own information.,2 June 2019 20:56 ,main
+customer1 logged in.,2 June 2019 21:01 ,main
+Customer Calin George-Adrian printed his own information.,2 June 2019 21:01 ,main
+Customer Calin George-Adrian changed his location.,2 June 2019 21:01 ,main
+Customer Calin George-Adrian printed his own information.,2 June 2019 21:01 ,main
+customer1 logged in.,2 June 2019 21:02 ,main
+Customer Calin George-Adrian printed his own information.,2 June 2019 21:02 ,main
+customer1 logged in.,2 June 2019 21:03 ,main
+Customer Calin George-Adrian printed his own information.,2 June 2019 21:03 ,main
+Customer Calin George-Adrian changed his shipping info.,2 June 2019 21:03 ,main
+Customer Calin George-Adrian printed his own information.,2 June 2019 21:03 ,main
+customer1 logged in.,2 June 2019 21:38 ,main
+Customer Calin George-Adrian printed his own information.,2 June 2019 21:39 ,main
+Customer Calin George-Adrian changed his credit card info.,2 June 2019 21:39 ,main
+Customer Calin George-Adrian printed his own information.,2 June 2019 21:39 ,main
+customer1 failed to log in.,2 June 2019 21:39 ,main
+provider1 logged in.,2 June 2019 21:52 ,main
+Provider Dedeman S.R.L. printed his own information.,2 June 2019 21:52 ,main
+provider1 logged in.,2 June 2019 22:00 ,main
+Provider Dedeman S.R.L. printed his own information.,2 June 2019 22:00 ,main
+provider1 logged in.,2 June 2019 22:01 ,main
+Provider Dedeman S.R.L. printed his own information.,2 June 2019 22:01 ,main
+Provider Dedeman S.R.L. printed his own information.,2 June 2019 22:01 ,main
+provider1 failed to log in.,2 June 2019 22:01 ,main
+User printed the stocks.,2 June 2019 22:13 ,main
+User printed the stock for product with id 54.,2 June 2019 22:13 ,main
+User printed the stocks.,2 June 2019 22:14 ,main
+User printed the stock for product with id 13.,2 June 2019 22:14 ,main
+Stock for product with id 27 has been updated to 65,2 June 2019 22:14 ,main
+User printed all tickets.,2 June 2019 22:14 ,main
+User printed the ticket with id 12.,2 June 2019 22:14 ,main
+Coca Cola-Zero 2L has been added to the database.,2 June 2019 22:14 ,main
+User has printed the list of users.,2 June 2019 22:15 ,main
+cashier1 logged in.,2 June 2019 22:15 ,main
+Cashier Popescu Ioana printed his own information.,2 June 2019 22:15 ,main
+cashier1 failed to log in.,2 June 2019 22:15 ,main
