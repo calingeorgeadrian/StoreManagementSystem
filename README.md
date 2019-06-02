@@ -11,6 +11,7 @@
  - Register
    - Can choose what ype of account to create: Cashier, Customer or Provider
  - Print users
+ - Remove user by username
   - For all users: Print info
  - For cashiers only:
    - Fire cashier
